@@ -12,7 +12,7 @@ def get_ip_info(ip_address):
         return None
 
 # مثال على استخدام الدالة
-ip_address = "8.8.8.8"
+ip_address = 
 ip_info = get_ip_info(ip_address)
 if ip_info:
     print(f"معلومات عنوان IP {ip_address}:")
